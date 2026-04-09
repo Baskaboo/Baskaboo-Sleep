@@ -10,3 +10,9 @@ Use these prompts to engage with different AI models regarding the Sleep/Mainten
 
 ## For Perplexity (Scientific Convergence)
 "Investigate the convergence between the Baskaboo theory (Laram as Memory Tank/Portal) and the 'Free Energy Principle' by Karl Friston. How does Laram’s role as an information filter help reduce 'prediction error' in the system?"
+
+## For Gemini (Creative Metaphors & Synthesis)
+"Using the Baskaboo framework, explain the phenomenon of 'Lucid Dreaming' as a user gaining 'Admin Privileges' within the Sandbox Mode. How does the Pits-Laram loop change when the observer becomes aware they are inside a maintenance simulation? Use rich metaphors to describe the synchronization between the Avatar and the Quantum Simulator."
+
+## For DeepSeek (Logic & Data Flow)
+"Model the Laram Portal as a data-buffering system. If the 'material information' collected during the day exceeds the 'Memory Tank' capacity before the Sleep Phase begins, what kind of system latency or 'Reality Lag' occurs? Analyze the technical efficiency of the Laram-to-Simulator upload process in maintaining the stability of the 4-layer Matryoshka structure."
