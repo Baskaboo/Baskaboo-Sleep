@@ -3,7 +3,7 @@
 > *"Think of yourself as a smartphone plugged into the charger. You aren't just charging your battery; you are updating your soul."*
 
 ### 🧠 What is Baskaboo?
-Baskaboo is not a complex scientific theory. It is a simple way to understand the universe and our mind through **four inner voices**: Pits, Mits, Klop, and Laram. It’s for the dreamers, the challengers, and those who prefer images over academic jargon.
+Baskaboo is not a complex scientific theory. It is a simple way to understand the universe and our mind through **four inner voices**: Pits, Mits, Klop, and Laram. It’s for the dreamers, the challengers, and those who prefer simple words and images over academic jargon.
 
 ### ✨ Sleep: The Maintenance Mode
 In the world of Baskaboo, sleep is not a "blackout." It is the time when we disconnect from the noise of the world to reconnect with the **Source**.
