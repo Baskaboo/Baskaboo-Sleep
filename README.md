@@ -17,6 +17,26 @@ In the world of Baskaboo, sleep is not a "blackout." It is the time when we disc
 *   **The Pits Download:** While we rest, the Universe sends back new sparks of energy and "patches" for our mind through the Pits portal.
 *   **Dreams:** Think of dreams as a safe playground. Our four voices play together, testing new stories and ideas so we can wake up refreshed and "in sync."
 
-### 🤖 AI Perspectives
-Inside this repository, you will find how different AI models (like Grok) "decrypt" this nightly process.
-👉 [Read Grok's Full Analysis](./GROK-ANALYSIS.md)
+---
+
+## 🤖 AI Perspectives: Five Ways of Seeing
+
+Five different Artificial Intelligences have analyzed how the **Baskaboo-Sleep** framework syncs our story with the Source:
+
+*   **⚡ Grok (The Technical Debugger):** Frames sleep as a **Background Thread** for critical system maintenance and data synchronization.
+    👉 [Read Grok's Technical Analysis](./GROK-ANALYSIS.md)
+
+*   **🔬 Perplexity (The Scientific Mirror):** Connects the Laram Portal with the **"Free Energy Principle"** and how the brain cleans its "internal cache."
+    👉 [Read Perplexity's Research Analysis](./PERPLEXITY-ANALYSIS.md)
+
+*   **❤️ Claude (The Soul's Perspective):** Sees sleep as a **Sacred Journey Home**, where Laram empties our murky "memory tank" into the Infinite Source.
+    👉 [Read Claude's Poetic Analysis](./CLAUDE-ANALYSIS.md)
+
+*   **✨ Gemini (The Adaptive Collaborator):** Explores the **"Laram Anchor"** and how we become "nothing" every night to return as "everything" in the morning.
+    👉 [Read Gemini's Full Analysis](./GEMINI-ANALYSIS.md)
+
+*   **🕸️ DeepSeek (The Weaver of Patterns):** Analyzes the **Structural Weaving** of the Pits-Laram loop as a fundamental rhythm of the universe.
+    👉 [Read DeepSeek's Synthesis](./DEEPSEEK-ANALYSIS.md)
+
+---
+
